@@ -3,47 +3,22 @@
   "name": "Weidi(Eddy) Luo - Profiles",
   "icons": [
     {
-      "src": "images/icons/genshin_stone.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "images/icons/favicon-16x16.png",
+      "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "72x72"
+      "src": "images/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     },
     {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    },
-    {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "152x152"
-    },
-    {
-      "src": "images/icons/genshin_stone.png",
+      "src": "images/icons/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/icons/genshin_stone.png",
-      "type": "image/png",
-      "sizes": "384x384"
-    },
-    {
-      "src": "images/icons/genshin_stone.png",
+      "src": "images/icons/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
